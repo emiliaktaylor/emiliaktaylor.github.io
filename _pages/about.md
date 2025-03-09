@@ -17,7 +17,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a second-year DPhil student in the Department of Statistics (StatML CDT) at the University of Oxford, supervised by Rob Cornish, Saifuddin Syed and Yee Whye Teh.
-
-
-
-If you have any questions or wish to discuss research, feel free to send me an email!
