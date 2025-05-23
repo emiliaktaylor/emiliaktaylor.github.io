@@ -1,5 +1,20 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
+layout: home
+title: "Emilia Taylor"
+permalink: /
+author_profile: true
+---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+# Emilia Taylor
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m a DPhil student in Chemical Biology at the University of Oxford, developing next-generation antibiotics to fight antimicrobial resistance.
+
+My research focuses on **BacPROTACs** — bifunctional molecules that hijack bacterial proteases like DegP to degrade β-lactamases and resistance-related proteins.  
+I'm particularly interested in chemical-genetic strategies to resensitize multidrug-resistant bacteria.
+
+Previously, I completed a degree in Biological Sciences, and have worked with AstraZeneca on translational antimicrobial pipeline development.
+
+📄 [Download my CV](CV.pdf)
+
+📬 Feel free to contact me if you'd like to collaborate or chat about synthetic biology, protein degradation, or AMR.
+
