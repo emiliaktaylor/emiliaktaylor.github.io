@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year DPhil student in the Department of Statistics (StatML CDT) at the University of Oxford, supervised by Rob Cornish, Saifuddin Syed and Yee Whye Teh.
+I am a third-year DPhil student in the Department of Pathology and  Pharmacology (Chemistry in Cells CDT) at the University of Oxford, supervised by Professor Thomas Lanyon-Hogg and Dr Georgia Isom.
