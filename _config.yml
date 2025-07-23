@@ -16,7 +16,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: OXF_blue_seal.png
+icon: OXF_blue_seal3.webp
 url: https://emiliaktaylor.github.io # the base hostname & protocol for your site
 # baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 baseurl: 
@@ -289,8 +289,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 #   group_by: year
 #   group_order: descending
 scholar:
-  last_name: [Nasvytis]
-  first_name: [Linas]
+  last_name: [Taylor]
+  first_name: [Emilia K]
   style: apa
   locale: en
   source: /_bibliography/
