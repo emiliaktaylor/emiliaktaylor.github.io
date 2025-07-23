@@ -1,19 +1,42 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: 7G8A1007.jpg
+  image: prof_pic_ET.jpg
   image_circular: false # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
   more_info: >
-    <p>emilia.taylor@stx.ox.ac.uk</p>
-
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+    <p style="font-size: 13px; color: black;">
+      Email: emilia.taylor@stx.ox.ac.uk
+    </p>
+    <p style="font-size: 13px;">
+      <a href="https://github.com/emiliaktaylor" target="_blank">GitHub</a> |
+      <a href="https://scholar.google.com/citations?user=oJdWrpcAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
+      <a href="https://www.linkedin.com/in/ekvarstein/" target="_blank">LinkedIn</a>
+    </p>
+    <br><br><br>
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
+social: false # includes social icons at the bottom of the page
 
-I am a third-year DPhil student in the Department of Pathology and  Pharmacology (Chemistry in Cells CDT) at the University of Oxford, supervised by Professor Thomas Lanyon-Hogg and Dr Georgia Isom. My work focuses on the development of bifunctional molecuels to target resistance enzymes in bacteria
+#this is the announcement thing you should enable for news
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
+[EMILIA'S BIO - Please provide her academic background, research interests, current position, and any other relevant information]
+
+<br>

@@ -1,1 +1,53 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Emilia Taylor
+    - name: Languages
+      value: English
 
+- title: Education
+  type: time_table
+  contents:
+    # Add Emilia's education here
+    # - title: Degree
+    #   institution: University Name
+    #   year: Year
+    #   description:
+    #     - Description 1
+    #     - Description 2
+
+- title: Experience
+  type: time_table
+  contents:
+    # Add Emilia's experience here
+    # - title: Position
+    #   institution: Institution Name
+    #   year: Year Range
+    #   description:
+    #     - Description 1
+    #     - Description 2
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    # Add Emilia's awards here
+    # - year: Year
+    #   items:
+    #     - Award 1
+    #     - Award 2
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    # Add Emilia's research interests here
+    # - title: Topic 1
+    #   items:
+    #     - Description 1
+    #     - Description 2
+
+- title: Other Interests
+  type: list
+  contents:
+    # Add Emilia's other interests here
+    # - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
