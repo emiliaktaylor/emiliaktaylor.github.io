@@ -14,7 +14,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
   more_info: >
-    <p style="font-size: 13px; color: black;">
+    <p style="font-size: 13px;">
       Email: emilia.taylor@stx.ox.ac.uk
     </p>
     <p style="font-size: 13px;">
