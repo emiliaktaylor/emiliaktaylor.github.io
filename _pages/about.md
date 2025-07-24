@@ -19,7 +19,8 @@ profile:
     </p>
     <p style="font-size: 13px;">
       <a href="https://scholar.google.com/citations?user=oJdWrpcAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> |
-      <a href="https://www.linkedin.com/in/ekvarstein/" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/ekvarstein/" target="_blank">LinkedIn</a> |
+      <a href="/assets/cv/cv.pdf" target="_blank">CV</a>
     </p>
     <br><br><br>
 selected_papers: false # includes a list of papers marked as "selected={true}"
