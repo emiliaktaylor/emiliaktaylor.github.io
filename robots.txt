@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://emiliaktaylor.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://emiliakvarstein.com/sitemap.xml
