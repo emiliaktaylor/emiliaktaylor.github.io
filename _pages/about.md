@@ -37,7 +37,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a DPhil (PhD) student in Chemical Biology at the University of Oxford, advised by Professors [Georgia Isom](https://isomlab.org/lab-members-current) and [Thomas Lanyon-Hogg](https://www.pharm.ox.ac.uk/research/groups/lanyon-hogg-group). 
+I am a DPhil (PhD) student in Chemical Biology at the University of Oxford, advised by Professors [Georgia Isom](https://isomlab.org/lab-members-current) and [Thomas Lanyon-Hogg](https://www.pharm.ox.ac.uk/research/groups/lanyon-hogg-group).I am currently a Visiting Researcher at Stanford in Professor [Matthew Bogyo's] (https://med.stanford.edu/bogyolab.html) lab 
 
 My goal is to develop a new class of antimicrobials designed to tackle the growing threat of antimicrobial resistance (AMR). AMR is a global health emergency, driven by the widespread emergence of bacterial strains that no longer respond to conventional antibiotics. Despite decades of research, few novel antibacterial classes have reached the clinic, while resistance continues to outpace drug development. My research addresses this gap by applying targeted protein degradation, an approach inspired by mammalian Proteolysis Targeting Chimeras (PROTACs) to bacterial systems. I also collaborate with [AstraZeneca’s Proteomics research group](https://www.astrazeneca.com/r-d/our-technologies/multi-omics.html) to characterise degradation selectivity and identify off-target effects at a global proteome level.
 
